@@ -1,0 +1,15 @@
+
+GITHUB_TO_SLACK = {"ralka": "rali",
+                   "seanpreston": "rali",
+                   "joealcorn": "rali",
+                   "moretti": "rali",
+                   "j0hnsmith": "rali",
+                   "mallison": "rali",
+                   "deanblacc": "rali",
+                   "basicallydan": "rali",
+                   "oh-moore": "rali",
+                   "maximedegreve": "rali",
+                   "olegtsaplin": "rali",
+                   "yavorpunchev": "rali",
+                   "pakmee": "rali",
+                   "wendyabrantes": "rali"}
